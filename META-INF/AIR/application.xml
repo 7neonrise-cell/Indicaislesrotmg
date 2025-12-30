@@ -1,0 +1,14 @@
+<application xmlns="http://ns.adobe.com/air/application/15.0">
+  <id>WebMain</id>
+  <filename>WebMain</filename>
+  <name>WebMain</name>
+  <versionNumber>0.0.1</versionNumber>
+  <initialWindow>
+    <content>WebMain.swf</content>
+    <title>Realm of the Mad God</title>
+    <visible>true</visible>
+    <autoOrients>false</autoOrients>
+    <fullScreen>false</fullScreen>
+    <renderMode>gpu</renderMode>
+  </initialWindow>
+</application>
